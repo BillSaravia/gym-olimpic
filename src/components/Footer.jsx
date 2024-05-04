@@ -28,7 +28,7 @@ const Footer = () => {
         <div className="mt-8 md:mt-0 md:ml-8">
           <h1 className="font-medium text-xl text-brightRed">Horario de Atención</h1>
           <ul className="mt-4">
-            <li>Lun-Sab: 6:00 AM – 11:00 AM</li>
+            <li>Lun-Sab: 6:00 AM – 11:00 PM</li>
             <li>Dom: Cerrado</li>
           </ul>
         </div>
